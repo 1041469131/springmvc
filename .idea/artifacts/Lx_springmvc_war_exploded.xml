@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Lx-springmvc:war exploded">
+    <output-path>$PROJECT_DIR$/target/Lx-springmvc</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Lx-springmvc" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:\testProject\Lx-springmvc\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="Lx-springmvc/web/Web" />
+    </root>
+  </artifact>
+</component>

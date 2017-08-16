@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1494833198505" />
+    <option name="importOrderConfigFilePath" value="$APPLICATION_HOME_DIR$/eclipse-java-code style-formatter.xml" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJava" value="$APPLICATION_HOME_DIR$/eclipse-java-code style-formatter.xml" />
+    <option name="selectedJavaProfile" value="tsou-eclipse-java-code style-formatter" />
+    <option name="useForLiveTemplates" value="true" />
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="IdProvider" IDEtalkID="51DDD30D96C0DC53ED5A474AFB4D0946" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
