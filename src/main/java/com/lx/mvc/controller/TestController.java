@@ -21,7 +21,6 @@ public class TestController {
 
 	@RequestMapping("/query")
 	public void query(HttpServletRequest request, HttpServletResponse response, HttpSession session, Map map, @RequestParam("name") String userName, List list, @RequestHeader("Accept") String host) {
-
 		try {
 			PrintWriter pw = response.getWriter();
 			String result = testService.query(null);
